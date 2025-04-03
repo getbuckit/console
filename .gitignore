@@ -53,3 +53,6 @@ CHERRY_PICK_REPORT.md
 
 # Local Claude Code settings
 .claude/
+
+# Ignore Bin files
+bin/
